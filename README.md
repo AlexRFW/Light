@@ -2,6 +2,11 @@
 
 "Light" iOS app created for App Studio, Unit 1.
 
+## Exercises
+
+The folder "Exercises" contains my answers to the Student Resources Playground questions.
+
+
 ## Getting Started
 
 To run "Light", download the source code, open with Xcode, and run on iOS simulator or your own iOS device. It works with all available iOS devices/simulators.
