@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-To run "Light", download the source code, open with Xcode, and run on iOS simulator or your own iOS device. The app works with all available iOS devices/simulators. 
+To run "Light", download the source code, open with Xcode, and run on iOS simulator or your own iOS device. The app works with all available iOS devices/simulators.
 
 ## Running the app
 
@@ -13,7 +13,7 @@ The app has two simple functions. By tapping the screen anywhere, the background
 
 ## Built With
 
-* [Xcode](http://www.dropwizard.io/1.0.2/docs/) - The IDE for macOS to create iOS apps
+* [Xcode](https://developer.apple.com/xcode/) - The IDE for macOS to create iOS apps
 
 
 ## Authors
