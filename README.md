@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-To run "Light", download the source code, open with Xcode, and run on iOS simulator or your own iOS device.
+To run "Light", download the source code, open with Xcode, and run on iOS simulator or your own iOS device. The app works with all available iOS devices/simulators. 
 
 ## Running the app
 
