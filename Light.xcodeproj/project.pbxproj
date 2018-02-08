@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2354B6F202C54970029A585 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A2354B6E202C54970029A585 /* README.md */; };
 		A2C0B9962029D4AD00FCED6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C0B9952029D4AD00FCED6D /* AppDelegate.swift */; };
 		A2C0B9982029D4AD00FCED6D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2C0B9972029D4AD00FCED6D /* ViewController.swift */; };
 		A2C0B99B2029D4AD00FCED6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2C0B9992029D4AD00FCED6D /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2354B6E202C54970029A585 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A2C0B9922029D4AD00FCED6D /* Light.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Light.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2C0B9952029D4AD00FCED6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2C0B9972029D4AD00FCED6D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		A2C0B9892029D4AD00FCED6D = {
 			isa = PBXGroup;
 			children = (
+				A2354B6E202C54970029A585 /* README.md */,
 				A2C0B9942029D4AD00FCED6D /* Light */,
 				A2C0B9932029D4AD00FCED6D /* Products */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				A2C0B9A02029D4AD00FCED6D /* LaunchScreen.storyboard in Resources */,
 				A2C0B99D2029D4AD00FCED6D /* Assets.xcassets in Resources */,
+				A2354B6F202C54970029A585 /* README.md in Resources */,
 				A2C0B99B2029D4AD00FCED6D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
