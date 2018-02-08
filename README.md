@@ -4,7 +4,7 @@
 
 ## Exercises
 
-The folder "Exercises" contains my answers to the Student Resources Playground questions.
+The folder "Exercises" contains my answers to the Student Resources Playground questions. Exercise 1 - Introduction somehow didn't open properly after commmit, therefore I added it as a text file as well.
 
 
 ## Getting Started
