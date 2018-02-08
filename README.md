@@ -13,8 +13,8 @@ To run "Light", download the source code, open with Xcode, and run on iOS simula
 
 ## Running the app
 
-![Alt text](/doc/screenshot1.png  =350x623 "Light on, running on iPhone 8")
-![Alt text](/doc/screenshot2.png =350x623 "Light off, running on iPhone 8")
+![Alt text](/doc/screenshot1.png "Light on, running on iPhone 8")
+![Alt text](/doc/screenshot2.png "Light off, running on iPhone 8")
 
 The app has two simple functions. By tapping the screen anywhere, the background color will change from black to white and vice versa. The app also has a centered button, S.O.S., which will signal these letters in morse code by changing the background color. To fully make use of the screen estate, the status bar has been disabled.
 
